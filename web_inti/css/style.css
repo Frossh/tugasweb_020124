@@ -553,7 +553,7 @@ a:hover {
 .fashion_section {
     width: 100%;
     float: left;
-    padding-bottom: 150px;
+    padding-bottom: 20px;
 }
 
 .fashion_taital {
@@ -566,7 +566,7 @@ a:hover {
 
 .fashion_section_2 {
     width: 100%;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .box_main {
@@ -598,8 +598,8 @@ a:hover {
 .tshirt_img {
     width: 100%;
     text-align: center;
-    margin: 50px 0px;
-    min-height: 370px;
+    margin: 0px 0px;
+    min-height: 300px;
 }
 
 .btn_main {
